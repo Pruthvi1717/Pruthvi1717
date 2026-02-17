@@ -50,7 +50,7 @@ I'm a **passionate Full-Stack Developer** from Mumbai, India, specialising in **
 - Full-stack property listing app with secure auth & review functionality using Node.js, Express.js & MongoDB.
 - Implemented Passport.js authentication, Connect-Mongo session management & responsive Bootstrap UI.
 
-**[🔗 View Repository](#)**
+**[🔗 View Repository](https://github.com/Pruthvi1717/WanderLust)**
 
 ---
 
@@ -60,7 +60,7 @@ I'm a **passionate Full-Stack Developer** from Mumbai, India, specialising in **
 - Full-stack equity trading app with REST APIs for buying/selling stocks and real-time portfolio updates.
 - Added balance/quantity validation for secure trades and email notifications on account updates.
 
-**[🔗 View Repository](#)**
+**[🔗 View Repository](https://github.com/Pruthvi1717/ZerodhaClone)**
 
 ---
 
@@ -70,7 +70,7 @@ I'm a **passionate Full-Stack Developer** from Mumbai, India, specialising in **
 - ML classification model for flood risk using Logistic Regression, Random Forest, Decision Tree & SVM.
 - Evaluated using accuracy, precision, recall, F1-score & confusion matrix.
 
-**[🔗 View Repository](https://videocalling-s2ty.onrender.com/)**
+**[🔗 View Repository](https://github.com/Pruthvi1717/Flood-Prediction-Using-Machine-Learning)**
 
 ---
 
@@ -80,7 +80,7 @@ I'm a **passionate Full-Stack Developer** from Mumbai, India, specialising in **
 - Peer-to-peer video conferencing via WebRTC with Socket.io signalling and room management.
 - MongoDB backend for auth & sessions; React frontend for video, audio & chat.
 
-**[🔗 View Repository](#)**
+**[🔗 View Repository](https://github.com/Pruthvi1717/VideoConferencing)**
 
 ---
 
