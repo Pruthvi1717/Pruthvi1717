@@ -6,10 +6,10 @@
 <p align="center">
   <a href="tel:+917558350340"><img src="https://img.shields.io/badge/-+91 7558350340-7C3AED?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <a href="mailto:pruthvighatul1717@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://codeforces.com/profile/YOUR_CF"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_LC"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/pruthviraj-ghatul/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Pruthvi1717"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
+  
+  <a href="https://leetcode.com/u/pruthviraj1717/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
@@ -70,7 +70,7 @@ I'm a **passionate Full-Stack Developer** from Mumbai, India, specialising in **
 - ML classification model for flood risk using Logistic Regression, Random Forest, Decision Tree & SVM.
 - Evaluated using accuracy, precision, recall, F1-score & confusion matrix.
 
-**[🔗 View Repository](#)**
+**[🔗 View Repository](https://videocalling-s2ty.onrender.com/)**
 
 ---
 
