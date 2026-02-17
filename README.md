@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi there, I'm Pruthviraj Ghatul 👋
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&height=80&lines=Full-Stack+Developer+%7C+MERN+Enthusiast;Real-Time+Apps+%7C+WebRTC+%26+Socket.io;Problem+Solver+%7C+DSA+%26+Competitive+Coding;KJSIT+CSE+2026+%7C+CGPA+8.01" alt="Typing SVG" />
 
 <p align="center">
